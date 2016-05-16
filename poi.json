@@ -1,0 +1,1292 @@
+[  
+   {  
+      "id":3354,
+      "name":"Overlander meets Overlander",
+      "description":"A place from Overlanders to Overlanders. Kathi and Martin were on a trip around the world for two years and traveled the Americas and Asia. Come here to find a place to relax and chat. But please let them know in advance, that you plan to stay at there spacious garden area and send a mail to mail@herrlehmanns-weltreise.de",
+      "date_verified":"2015-05-10T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - Not at Sites",
+         "Internet":"Yes - Fast",
+         "Kitchen":"Yes",
+         "Restaurant":"No",
+         "Showers":"Unknown",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":51.11915,
+         "longitude":13.92769,
+         "altitude":0.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":3669,
+      "name":"Sachsenplatz Dresden",
+      "description":"The RV overnight stay is in a very central location on the Albert Bridge, just across the coastal road from the Elbe. In 5 minutes walking distance you`ll find the boat landing, the Terassenufer und the famous Elbe steam ships. Several playgrounds, restaurants, supermarkets, bank, post office and doctors nearby. Price: 10‚Ç¨",
+      "date_verified":"2014-09-29T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"Potable",
+         "Restroom":"Yes",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.05757,
+         "longitude":13.76028,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":3670,
+      "name":"Radeberg RV Shop",
+      "description":"All kinds of RV and Camping supplies, mechanic, dump station",
+      "date_verified":"2014-10-29T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/sanitation-7d6c8f7fef4d8204fe2e105e8b4f7d3c.png",
+      "category_icon_pin_path":"/assets/icons/sanitation-pin-5b7b8f90caa8951dad4a2f2ca1182c1c.png",
+      "amenities":{  
+         "Open":"Yes"
+      },
+      "country":"Germany",
+      "category":"Sanitation Dump Station",
+      "location":{  
+         "latitude":51.13692,
+         "longitude":13.9163,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":4009,
+      "name":"Parking Area ",
+      "description":"Non Official -free of charge",
+      "date_verified":"2014-11-23T14:09:35.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":49.4918361111111,
+         "longitude":11.5034694444444,
+         "altitude":477.5,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":4010,
+      "name":"Parking Area Cave",
+      "description":"Parking area of the Cave with the possibility to stay over night",
+      "date_verified":"2014-11-14T23:00:00.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":49.5191638888889,
+         "longitude":11.6628555555556,
+         "altitude":475.4,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":4209,
+      "name":"Frankenalb Camping",
+      "description":"12‚Ç¨ per camper ",
+      "date_verified":"2014-10-31T23:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Unknown",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":49.5252027777778,
+         "longitude":11.5820416666667,
+         "altitude":420.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":6265,
+      "name":"Campingplatz Rudolf Reidinger",
+      "description":"Beautiful view from hill over fields.",
+      "date_verified":"2013-08-23T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"Unknown",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"Yes",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":48.8753,
+         "longitude":12.8804,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":6266,
+      "name":"Camping Am Schwimmbad",
+      "description":"Busy site.",
+      "date_verified":"2013-08-22T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"Unknown",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"Yes",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":50.7091,
+         "longitude":7.2754,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":7277,
+      "name":"Ferienresort Kulkwitzer",
+      "description":"Nice spot next to a lake. ‚Ç¨21 w/ electric ",
+      "date_verified":"2015-04-30T20:54:30.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.3112600660429,
+         "longitude":12.2541750501955,
+         "altitude":118.84015556554,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":7354,
+      "name":"Dresden Waldschl√∂√üchenbr√ºcke",
+      "description":"Free parking directly at the Waldschl√∂√üchenbr√ºcke and on the Elbe. During the day traffic noise. In the evening very quiet and the view from the bridge of the Old Town is especially the sunset just terrific. Bicycle and bus / tram in the immediate vicinity. 3 km to the old town and 2,5 km to the famous newtown \"Dresden Neustadt\".",
+      "date_verified":"2015-05-06T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":51.06057,
+         "longitude":13.77834,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":7638,
+      "name":"Havenhostel Bremerhaven ",
+      "description":"Hostel with attached campground. Perfect place after you picked up your truck at the port of Bremerhaven. If you sleep in your vehicle you park on a paved road. For tents there is a big grassy field. There is a power socket (long cord needed) and a tab with potable water. Clean toilets and great hot showers. As a camper you can use all the facilities of the hostel. Camping in the car is  EUR 15 per couple incl power, wifi, showers etc. There is a restaurant, breakfast buffet is EUR 7 per person. Walking distance to downtown (20min). Supermarket right across the street.",
+      "date_verified":"2015-05-27T20:39:50.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - Not at Sites",
+         "Internet":"Yes - Fast",
+         "Kitchen":"Yes",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":53.5599021055303,
+         "longitude":8.56738982722961,
+         "altitude":-11.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":7672,
+      "name":"Leipzig I Reisemobilhafen",
+      "description":"Free RV site close to the AGRA exhibition area.\r\nall-night running tram and public transport connection to the city center.",
+      "date_verified":"2015-05-29T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":51.28564,
+         "longitude":12.38262,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":7823,
+      "name":"Camping Sonnendeck",
+      "description":"Very nice campground at a little lake. Lots of permanent campers as usual but the setting is better than at other places. Grassy sites with power and water. Luxury facilities, hot showers and clean. Tent sites are right in front of the showers/toilets. Washing machines, cooking possibility and sinks for dish washing. Restaurant open for dinner (we didn't try). Good wifi (pay extra per hour). We paid EUR 5 p/P plus EUR 3.50 for the car (Land Rover size), power would be additional EUR 2.50.",
+      "date_verified":"2015-06-06T16:56:54.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Yes - Fast",
+         "Kitchen":"No",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":48.9868029160881,
+         "longitude":10.2152372896766,
+         "altitude":495.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":7986,
+      "name":"Sora I Sch√∂ne Aussicht",
+      "description":"Parking lot for the \"Pumphut\" hiking trail. Restaurant \"Sch√∂ne Aussicht\" (this means \"stunning view\")  nearby. The name is te value ;)",
+      "date_verified":"2015-06-15T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"Yes",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":51.12156,
+         "longitude":14.37555,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":8314,
+      "name":"Freiburg",
+      "description":"great central location parkplatz to visit the old city but only  suitable for self - sufficient camper vans with own facilities. Some of the spots have electric. There are plenty of shops, good restaurants and bars in the town within 10 mins walk.  ‚Ç¨8 per night + ‚Ç¨1 for internet.",
+      "date_verified":"2015-07-12T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Yes - Average",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":47.9994068561236,
+         "longitude":7.82655094764165,
+         "altitude":304.060983583032,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":8472,
+      "name":"Stellplatz Altenbrak",
+      "description":"Car Parking for camper vans",
+      "date_verified":"2015-07-20T21:14:25.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"Unknown",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.725599,
+         "longitude":10.941852,
+         "altitude":277.2,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10547,
+      "name":"Stellplatz Schwindebecker Heide",
+      "description":"A very nice and quiet, unpaved place in the Luneburg Heath (L√ºneburger Heide) area. During daytime, used by locals and tourists to take a walk in the beatiful heath and wood area surrounding this lot. Overnight parking is allowed and the community asks to pay 3,50 (low season)/5,00 (high season) Euro at the Amelinghausen Tourist office. Anyhow, the place looks and feels almost like wild camping - very nice!",
+      "date_verified":"2015-11-16T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":53.12269,
+         "longitude":10.09854,
+         "altitude":61.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10548,
+      "name":"Stellplatz Schwindebecker Heide",
+      "description":"A very nice and quiet spot in midst of wood and beautiful heath in the Luneburg Heath (L√ºneburger Heide) area.  Overnight parking is allowed, but a small fee is asked by the Amelinghausen tourist office (‚Ç¨ 3,50 off season/ ‚Ç¨ 5,00 high season) - phone +494132/930550\r\n\r\nFresh Water and tank dumps available at the sewage facility (Kl√§ranlage) Oldendorfer Stra√üe in Amelinghausen day and night.",
+      "date_verified":"2015-11-16T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":53.12273,
+         "longitude":10.09869,
+         "altitude":61.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10802,
+      "name":"Parking On Sachsenstrasse",
+      "description":"Recommended by a local. Parking along a city park about 1.5 Kilometers from the heart of the old town. Free relatively flat. No amenities except recycling at the end of the street. We came off season and emptied tanks and filled water at the campground, Campingplatz M√ºnchen-Thalkirchen, located south west of town for free. ",
+      "date_verified":"2015-11-07T18:02:48.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":48.1187692936958,
+         "longitude":11.5679493080932,
+         "altitude":523.068603515625,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10958,
+      "name":"Camperarea Berlin",
+      "description":"Camperarea in Berlin. We have not stayed here. The address is Askanierring 70",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Unknown",
+         "Water":"Unknown",
+         "Restroom":"Unknown",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":52.5531,
+         "longitude":13.2007333333333,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10959,
+      "name":"Camperarea Berlin",
+      "description":"Camperarea in Berlin. Address: Weidmannsluster Damm. Walking distance to Underground which goes directly to the city center. Price (high season) ‚Ç¨15 for a medium sized spot. Shower ‚Ç¨4 a day (you must give driving licence a deposit for the key)",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Yes",
+         "Water":"Unknown",
+         "Restroom":"Unknown",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":52.59555,
+         "longitude":13.2890666666667,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10960,
+      "name":"Fortress",
+      "description":"Famous fortress used as a prison in WWII. Some parts can be visited free of charge",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/tourist-7729da997ac20278399b30237e1d0909.png",
+      "category_icon_pin_path":"/assets/icons/tourist-pin-9159a1ab84c01478c918805a76dedb31.png",
+      "amenities":{  
+         "Open":"Yes"
+      },
+      "country":"Germany",
+      "category":"Tourist Attraction",
+      "location":{  
+         "latitude":51.1291833333333,
+         "longitude":12.80535,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10961,
+      "name":"Camperarea Dresden",
+      "description":"Camperarea and parking near the opposite the old town. Beautiful from just outisde the area. ‚Ç¨ 14 per night without power and no facilities.",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"No",
+         "Water":"Unknown",
+         "Restroom":"No",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.0563833333333,
+         "longitude":13.7430666666667,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10962,
+      "name":"Non Solo Vini",
+      "description":"Probably the best Italian restaurant in Berlin.",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/restaurant-d6fc1cfa9507fd8198c91205c146f6e5.png",
+      "category_icon_pin_path":"/assets/icons/restaurant-pin-c0bdbdf3e3f28341c9493834090bff8d.png",
+      "amenities":{  
+         "Open":"Yes"
+      },
+      "country":"Germany",
+      "category":"Restaurant",
+      "location":{  
+         "latitude":52.49135,
+         "longitude":13.3233333333333,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10963,
+      "name":"Camperarea Timmendorfstrand",
+      "description":"Camperarea Timmendorfstrand on the Island Poel. ‚Ç¨ 11 per night . No toilet available only shower ‚Ç¨1 (get the key from the nearby shop)",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Yes",
+         "Water":"Unknown",
+         "Restroom":"No",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":53.9929666666667,
+         "longitude":11.3805666666667,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":10964,
+      "name":"Camperarea Vogelpark Walsrode",
+      "description":"Camperarea at the back of the parking of \"Vogelpark Walsrode\" (a bird zoo). Camping is free of charge and toilets stay open 24 hours.",
+      "date_verified":"2012-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Unknown",
+         "Water":"Unknown",
+         "Restroom":"Yes",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":52.88295,
+         "longitude":9.5964,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":11057,
+      "name":"Camperspot Stegen",
+      "description":"Very nice place, great showers! No internet. Price is 13 Euro per night for camping for 2 people.",
+      "date_verified":"2014-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"No",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Yes",
+         "Water":"Unknown",
+         "Restroom":"Unknown",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":47.8091833333333,
+         "longitude":12.49145,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":11058,
+      "name":"Camperspot Wertheim Bettingen",
+      "description":"Good spot with clean showers. Internet at the entrace. You can camp next to the river. Price for camping 17 Euro per night for 2 people",
+      "date_verified":"2014-01-01T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Yes - Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Yes",
+         "Water":"Unknown",
+         "Restroom":"Unknown",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":49.7821166666667,
+         "longitude":9.56685,
+         "altitude":null,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":11866,
+      "name":"Heidelberg, City am Neckar ",
+      "description":"For a Quick stop nice. Right next to the Neckar with a beautyful view to the castle. Close to the halfpipe. ",
+      "date_verified":"2015-12-23T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":49.41136881,
+         "longitude":8.67694267,
+         "altitude":154.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":11898,
+      "name":"on the Rhein river :-)",
+      "description":"A place, for one night, right next to the rhine river. ",
+      "date_verified":"2015-12-25T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":50.02177604,
+         "longitude":8.11265596,
+         "altitude":132.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":14632,
+      "name":"Volkers Stellplatz ",
+      "description":"Nice caravan camp ground next to dyke. Very quiet and tidy. Restaurant 2 km away, mobile 3G internet. 40 km from Bremerhaven port. ",
+      "date_verified":"2016-03-22T10:32:20.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":53.5409393068902,
+         "longitude":8.50965460763174,
+         "altitude":1.75064866905846,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":14663,
+      "name":"delete ",
+      "description":"You can have a nice 15min footwalk at the river to the city",
+      "date_verified":"2015-11-23T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"No",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"No",
+         "Pet Friendly":"No"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":-90.0,
+         "longitude":0.0,
+         "altitude":39.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":15212,
+      "name":"Landferienhaus Linde",
+      "description":"Wild camping with permission of land owner (Landferienhaus Linde), situated in Langenbach - Th√ºringen. Good camping spot in open area surrounded by forrest (Schleusegrund) just outside the village. No facilities.",
+      "date_verified":"2015-05-06T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":50.51592,
+         "longitude":10.85453,
+         "altitude":0.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":15216,
+      "name":"Strotzb√ºscher M√ºhle",
+      "description":"Very nice campsite, romantic situated in the Ue√übach valley. The land on which you can camp belongs to the old Strotzb√ºscher M√ºhle, nowadays been used for touristic purposes. You can camp anywhere you like on the large field, with quite superb spots alongside the Ue√übach stream.\n\nLarge (or long) vehicles may encouter some problems - or even might get stuck - when trying to reach the valley on the small, curvy road.",
+      "date_verified":"2016-04-05T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"Yes - Slow",
+         "Kitchen":"No",
+         "Restaurant":"Yes",
+         "Showers":"Warm",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":50.107454,
+         "longitude":6.978146,
+         "altitude":400.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16110,
+      "name":"Plon Stellplatz",
+      "description":"Lakeside Camper parking for self-contained vehicles.\r\n\r\nFive Euro per night\r\n\r\nDump point and water available (1 Euro)",
+      "date_verified":"2016-04-30T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"Yes",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":54.15304,
+         "longitude":10.40475,
+         "altitude":0.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16426,
+      "name":"Alpirsbach Naturpur",
+      "description":"Under 20 euro to dry camp in small streamside campground. You can dry camp or bring small caravan. We were here early May, not very crowded. Families and motorad campers. Small store and food available. Internet is good. Camping-alpirsbach.de.   Many thanks to the kind owners, the Rudolph family. ",
+      "date_verified":"2016-05-08T08:01:59.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Yes - Fast",
+         "Kitchen":"Yes",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"No",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":48.3576787636134,
+         "longitude":8.41163730249592,
+         "altitude":457.744186902895,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16505,
+      "name":"Bringh√§user Bucht- Camp Ground ",
+      "description":"Terraced, nice view over Edersee (lake). We did not stay there, but it looked well maintained and new. ",
+      "date_verified":"2016-05-10T12:14:19.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Unknown",
+         "Internet":"Unknown",
+         "Kitchen":"Unknown",
+         "Restaurant":"Unknown",
+         "Showers":"Unknown",
+         "Water":"Unknown",
+         "Restroom":"Unknown",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.1801062478229,
+         "longitude":8.99541825056914,
+         "altitude":242.788748137971,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16575,
+      "name":"Campingplatz Ederseeparadies",
+      "description":"Huge camp ground around a farm at lake Edersee on grass. Lovely scenery, absolutely quiet at dead end road. Cramped area for permanent campers. Clean facilities, but ground around farmhouse carelessly maintained (old caravans etc. around). Good starting point for hiking and canoeing. 17,50 EUR w/o electricity for 2 persons pn/ 0,50 EUR for shower. 3G mobile internet. Basic restaurant and grocery store. ",
+      "date_verified":"2016-05-10T21:47:43.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"No",
+         "Kitchen":"Unknown",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.1816839734569,
+         "longitude":8.95773036406278,
+         "altitude":272.839965820312,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16578,
+      "name":"R√∂ders Park",
+      "description":"Great Campground with a little lake in the middle of the campground. In high season (summertime) often fully booked. About 70 km south of Hamburg.",
+      "date_verified":"2016-05-12T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Yes - Fast",
+         "Kitchen":"Unknown",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Yes"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":53.0011345827085,
+         "longitude":9.83531334682648,
+         "altitude":104.518390113172,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16629,
+      "name":"Aussichtsturm Hohenmirsberg",
+      "description":"wild campground with barriers. no problem for motorcycles. for vehicles, there is enough space near the tower.",
+      "date_verified":"2016-05-13T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/wild-camp-804698eb9f97aa1c41853da2e78b0e26.png",
+      "category_icon_pin_path":"/assets/icons/wild-camp-pin-d178ac467d26aa110e9a4a6b401c36de.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"No",
+         "Kitchen":"No",
+         "Restaurant":"No",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Unknown",
+         "Tent Friendly":"Unknown",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Wild Camping",
+      "location":{  
+         "latitude":49.8148727,
+         "longitude":11.4450385,
+         "altitude":400.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16653,
+      "name":"DKV Camping",
+      "description":"Beautiful camp ground of the German Canoe Club at lake Edersee, terraced on grass. Lovely scenery, absolutely quiet, access via forest road from Basdorf. Lots of permanent campers. Clean and very well maintained. Good starting point for hiking and canoeing. Restaurant and grocery store with friendly stuff. 20 EUR w/o electricity for 2 persons pn. Slow mobile internet.  ",
+      "date_verified":"2016-05-12T18:41:42.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"No",
+         "Kitchen":"Unknown",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"No"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":51.1849554721743,
+         "longitude":8.9801107999021,
+         "altitude":258.107700963845,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16654,
+      "name":"Parking Lot Near Burschenschaftsdenkmal",
+      "description":"Parking lot close to Burschenschaftsdenkmal  and 4-star hotel/ restaurant Berghotel. In the forest, very quiet after closing hour of restaurant. Beautiful view to Wartburg Castle. Starting point for several hiking tours (e. g. Hohe Sonne, Wartburg)",
+      "date_verified":"2016-05-14T17:12:50.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"Yes - Fast",
+         "Kitchen":"No",
+         "Restaurant":"Yes",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":50.9666833794219,
+         "longitude":10.3332996647901,
+         "altitude":317.349941253662,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16705,
+      "name":"Camping Regenbogen, Bad Liebenzell",
+      "description":"quite campground near the city-center.",
+      "date_verified":"2016-05-14T00:00:00.000Z",
+      "category_icon_path":"/assets/icons/camping-bbf50043d2309778cdbc3cc9b7f7b80c.png",
+      "category_icon_pin_path":"/assets/icons/camping-pin-6b32dd94fc978c7943cf639964a095a8.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"Yes - At Sites",
+         "Internet":"Yes - Fast",
+         "Kitchen":"Unknown",
+         "Restaurant":"Yes",
+         "Showers":"Hot",
+         "Water":"Potable",
+         "Restroom":"Running Water",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"Yes",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Established Campground",
+      "location":{  
+         "latitude":48.77725298,
+         "longitude":8.73179011,
+         "altitude":374.0,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   },
+   {  
+      "id":16725,
+      "name":"Altensteiner Schloss ",
+      "description":"Parking lot on the castle grounds, 200 m from main entrance. Very quiet, surrounded by big trees. The park is amazing! You can walk around several hours. Restaurant at park entrance. No facilities, toilets in park during day hours. ",
+      "date_verified":"2016-05-16T14:21:09.000Z",
+      "category_icon_path":"/assets/icons/informal-camp-deadf32955371fab2d17a87e8faad988.png",
+      "category_icon_pin_path":"/assets/icons/informal-camp-pin-08e5901c15c2799f70a283fb7f4980a5.png",
+      "amenities":{  
+         "Open":"Yes",
+         "Electricity":"No",
+         "Internet":"Yes - Slow",
+         "Kitchen":"No",
+         "Restaurant":"Yes",
+         "Showers":"No",
+         "Water":"No",
+         "Restroom":"No",
+         "Big Rig Friendly":"Yes",
+         "Tent Friendly":"No",
+         "Pet Friendly":"Unknown"
+      },
+      "country":"Germany",
+      "category":"Informal Campsite",
+      "location":{  
+         "latitude":50.8352324227345,
+         "longitude":10.3544426802642,
+         "altitude":456.897106170654,
+         "horizontal_accuracy":null,
+         "vertical_accuracy":null
+      }
+   }
+]
