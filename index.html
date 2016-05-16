@@ -1,0 +1,23 @@
+<html>
+    <head>
+         <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+         <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+
+        <style type="text/css">
+            #mapid { 
+                width: 800px; 
+                height: 480px; 
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Arango DB demo</h1>
+
+         <div id="mapid"></div>
+
+        <script type="text/javascript">
+             var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+        </script>
+    </body>
+</html>
+
